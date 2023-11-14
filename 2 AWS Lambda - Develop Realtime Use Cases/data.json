@@ -1,0 +1,7 @@
+{  
+        "table": "mytable", 
+        "database": "dynamodb", 
+        "name":       "sonoo",   
+        "salary":      56000,   
+        "married":    true  
+}  
